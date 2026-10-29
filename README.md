@@ -6,7 +6,7 @@ A [Claude Code](https://claude.com/claude-code) skill that reverse-outlines an a
 
 The method is Patrick Dunleavy's paragraph re-planning technique. All credit for the approach goes to him; this skill only automates its first three stages. See:
 
-- Patrick Dunleavy, [post on paragraph re-planning](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/c9a7e694d4ec), *Advice and help in authoring a PhD or non-fiction book* (Medium).
+- Patrick Dunleavy, "[What is paragraph re-planning?](https://medium.com/advice-and-help-in-authoring-a-phd-or-non-fiction/c9a7e694d4ec)", *Advice and help in authoring a PhD or non-fiction book* (Medium).
 - Patrick Dunleavy (2003), *Authoring a PhD: How to Plan, Draft, Write and Finish a Doctoral Thesis or Dissertation*, Palgrave Macmillan, ch. 6.
 - Patrick Dunleavy (2014), *Writing For Research* blog.
 
